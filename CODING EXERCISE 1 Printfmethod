@@ -9,7 +9,7 @@ public class Printfmethod {
 		
 	    double price  = 1.21997;
 	    System.out.printf("%.2f%n",price);
-	    System.out.printf("%.2f%n",price);
+	    System.out.printf("%10.2f%n",price);
 		
 		int x = 10 ;
 		double y = 5.373123 ;
